@@ -10097,7 +10097,7 @@ Ported to CodeMirror by Peter Kroon
   display: block;
   float: left;
   background-color: transparent;
-  font-size: 26px;
+  font-size: 20px;
   margin: 9px 12px;
 }
 .msgapi .fill:-webkit-full-screen #mapstore-drawermenu .navHeader > .glyphicon:hover {
@@ -22993,7 +22993,7 @@ Ported to CodeMirror by Peter Kroon
   display: block;
   float: left;
   background-color: transparent;
-  font-size: 18px;
+  font-size: 20px;
   margin: 6px 8px;
 }
 .msgapi .app-router #mapstore-drawermenu .navHeader > .glyphicon:hover,
